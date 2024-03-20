@@ -20,6 +20,7 @@ export default function Index() {
           <li><Link to={'/'}>Home</Link></li>
           <li><Link to={'/demo'}>Demo</Link></li>
           <li><Link to={'/demo/counter'}>Demo/Counter</Link></li>
+          <li><Link to={'/demo/counter/10'}>Demo/Counter with param 10</Link></li>
           <li>
             <a
               target="_blank"
