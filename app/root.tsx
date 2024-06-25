@@ -43,9 +43,9 @@ export default function App() {
       <aside style={{ flexGrow: 1 }}>
         <ul>
           <li><Link to={'/'}>Home</Link></li>
-          <li><Link to={'/demo'}>Demo</Link></li>
-          <li><Link to={'/demo/counter'}>Demo/Counter</Link></li>
-          <li><Link to={'/demo/counter/10'}>Demo/Counter with param 10</Link></li>
+          <li><Link to={'/o/demo'}>Demo</Link></li>
+          <li><Link to={'/o/demo/counter'}>Demo/Counter</Link></li>
+          <li><Link to={'/o/demo/counter/10'}>Demo/Counter with param 10</Link></li>
           <li>
             <a
               target="_blank"
